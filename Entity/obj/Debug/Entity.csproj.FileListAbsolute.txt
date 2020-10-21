@@ -1,0 +1,6 @@
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\bin\Debug\Entity.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\bin\Debug\Entity.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\obj\Debug\Entity.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Entity\obj\Debug\Entity.pdb

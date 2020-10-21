@@ -1,0 +1,11 @@
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Business.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Business.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Data.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Entity.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Data.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\bin\Debug\Entity.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\obj\Debug\Business.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Business\obj\Debug\Business.pdb

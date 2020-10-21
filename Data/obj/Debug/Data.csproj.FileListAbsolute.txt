@@ -1,0 +1,9 @@
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\bin\Debug\Data.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\bin\Debug\Data.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\bin\Debug\Entity.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\bin\Debug\Entity.pdb
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\obj\Debug\Data.dll
+E:\6to\Desarrollo de Aplicaciones Empre Avanzado\ejercicos\semana-4\Semana04\Data\obj\Debug\Data.pdb
